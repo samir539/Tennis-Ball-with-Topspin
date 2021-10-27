@@ -1,0 +1,4 @@
+# Tennis-Ball-with-Topspin
+A project undertaken to model the flight of a tennis ball with the aim of understanding the impact of the spin of the ball to the corresponding trajectory.
+
+Over the course of this investigation we look at the dynamics of a tennis ball traveling through air which we consider to be an ideal fluid for the purposes of the investigation. The ball is assumed to be travelling near to the surface of the Earth. We wish to model the flight of the tennis ball from a specific starting point as well as model the impact of ”topspin” as the ball travels through the air. Topspin is a phenomenon (with which any keen tennis player is well acquainted with) where by the motion of the air around the rotating ball generates an additional force, the Magnus force, which further impacts the dynamics of the motion.
